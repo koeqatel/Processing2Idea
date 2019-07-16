@@ -1,0 +1,7 @@
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\bin\Debug\Processing2IntelliJ.exe.config
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\bin\Debug\Processing2IntelliJ.exe
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\bin\Debug\Processing2IntelliJ.pdb
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\obj\Debug\Processing2IntelliJ.csprojAssemblyReference.cache
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\obj\Debug\Processing2IntelliJ.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\obj\Debug\Processing2IntelliJ.exe
+C:\Users\Sander\Documents\Visual Studio 2019\Projects\Processing2IntelliJ\obj\Debug\Processing2IntelliJ.pdb
